@@ -1,3 +1,6 @@
 *~
 .*
 !.gitignore
+composer.phar
+vendor/
+components/
